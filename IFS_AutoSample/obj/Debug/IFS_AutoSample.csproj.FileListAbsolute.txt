@@ -1,0 +1,77 @@
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\IFS_AutoSample.dll
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\IFS_AutoSample.pdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\IFS_AutoSample.IFS_AutoSample.apk
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\IFS_AutoSample.IFS_AutoSample-Signed.apk
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\IFS_AutoSample.csprojResolveAssemblyReference.cache
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\IFS_AutoSample.dll
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\IFS_AutoSample.pdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\bin\IFS_AutoSample.IFS_AutoSample.apk
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\res\layout\main.xml
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\res\values\strings.xml
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\res\drawable\icon.png
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\R.cs.flag
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\uploadflags.txt
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\IFS_AutoSample.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\Java.Interop.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\Mono.Android.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\mscorlib.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.Core.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.Net.Http.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.Xml.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\IFS_AutoSample.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\ajay.b.pratap.singh\documents\visual studio 2015\Projects\IFS_AutoSample\IFS_AutoSample\obj\Debug\IFS_AutoSample.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.dll
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.pdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.IFS_AutoSample.apk
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.IFS_AutoSample-Signed.apk
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\IFS_AutoSample.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\IFS_AutoSample.dll
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\IFS_AutoSample.pdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\bin\IFS_AutoSample.IFS_AutoSample.apk
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\res\layout\main.xml
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\res\values\strings.xml
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\res\drawable\icon.png
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\R.cs.flag
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\uploadflags.txt
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\Java.Interop.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\Mono.Android.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\mscorlib.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.Core.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.Xml.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\IFS_AutoSample.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\obj\Debug\IFS_AutoSample.dll.mdb
+C:\Users\srinivas.bavirisetti\Desktop\IFS\Automation_Sample\IFS_AutoSample\bin\Debug\IFS_AutoSample.dll.mdb

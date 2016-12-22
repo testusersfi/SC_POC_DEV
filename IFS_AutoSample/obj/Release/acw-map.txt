@@ -1,0 +1,4 @@
+IFS_AutoSample.MainActivity, IFS_AutoSample;md51e20a841b58991a09905833d6183d92b.MainActivity
+IFS_AutoSample.MainActivity, IFS_AutoSample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51e20a841b58991a09905833d6183d92b.MainActivity
+IFS_AutoSample.MainActivity;md51e20a841b58991a09905833d6183d92b.MainActivity
+ifs_autosample.MainActivity;md51e20a841b58991a09905833d6183d92b.MainActivity
