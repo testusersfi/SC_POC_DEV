@@ -1,1 +1,1 @@
-This directory contains project solution and APK
+This directory contains project solution
