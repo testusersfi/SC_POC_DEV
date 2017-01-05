@@ -1,1 +1,1 @@
-This directory contains project solution
+Welcome to the session
