@@ -1,2 +1,0 @@
-android.app.Application
-IFS_AutoSample.IFS_AutoSample

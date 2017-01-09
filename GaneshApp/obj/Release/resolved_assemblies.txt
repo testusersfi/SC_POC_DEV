@@ -1,0 +1,9 @@
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\GaneshApp.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\Java.Interop.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\Mono.Android.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\mscorlib.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\System.Core.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\System.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\System.Xml.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\assets\System.ServiceModel.Internals.dll

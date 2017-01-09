@@ -1,0 +1,14 @@
+C:\Sample Projects\GaneshApp\GaneshApp\bin\Release\GaneshApp.dll
+C:\Sample Projects\GaneshApp\GaneshApp\bin\Release\GaneshApp.pdb
+C:\Sample Projects\GaneshApp\GaneshApp\bin\Release\GaneshApp.GaneshApp.apk
+C:\Sample Projects\GaneshApp\GaneshApp\bin\Release\GaneshApp.GaneshApp-Signed.apk
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\GaneshApp.dll
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\GaneshApp.pdb
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\android\bin\GaneshApp.GaneshApp.apk
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\res\layout\main.xml
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\res\values\strings.xml
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\res\drawable\icon.png
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\R.cs.flag
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\uploadflags.txt
+C:\Sample Projects\GaneshApp\GaneshApp\obj\Release\GaneshApp.dll.mdb
+C:\Sample Projects\GaneshApp\GaneshApp\bin\Release\GaneshApp.dll.mdb
