@@ -10,5 +10,5 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:layout_gravity="center"
-        android:text="Home" />
+        android:text="Welcome to Home screen" />
 </RelativeLayout>

@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace IFS_AutoSample
 {
-	[Activity(Label = "HomeActivity")]
+	[Activity(Label = "Home")]
 	public class HomeActivity : Activity
 	{
 		protected override void OnCreate(Bundle savedInstanceState)

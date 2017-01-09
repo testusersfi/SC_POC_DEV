@@ -1,0 +1,9 @@
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\IFS_AutoSample.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\Java.Interop.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\Mono.Android.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\mscorlib.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\System.Core.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\System.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\System.Xml.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\srinivas.bavirisetti\workspace\New_Sample_App\Backup 1\IFS_AutoSample\IFS_AutoSample\obj\Release\android\assets\System.ServiceModel.Internals.dll

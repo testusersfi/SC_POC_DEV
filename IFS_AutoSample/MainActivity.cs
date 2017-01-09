@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace IFS_AutoSample
 {
-    [Activity(Label = "IFS_AutoSample", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "POC TestApp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -25,11 +25,12 @@ namespace IFS_AutoSample
             Button button = FindViewById<Button>(Resource.Id.MyButton);
             EditText userName = FindViewById<EditText>(Resource.Id.userName);
             EditText password = FindViewById<EditText>(Resource.Id.password);
-            
+            password.InputType = Android.Text.InputTypes.TextVariationPassword |
+                          Android.Text.InputTypes.ClassText;
 
             button.Click += delegate
             {
-                if (userName.Text == "ganesh" && password.Text == "ganesh")
+                if (userName.Text == "admin" && password.Text == "welcome@123")
                 {
 					StartActivity(typeof(HomeActivity));
 					//var msgDiaglog = new AlertDialog.Builder(this);
