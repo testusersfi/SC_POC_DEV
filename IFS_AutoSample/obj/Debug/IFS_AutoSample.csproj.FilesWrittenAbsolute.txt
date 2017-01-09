@@ -1,0 +1,16 @@
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/bin/Debug/IFS_AutoSample.dll.mdb
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/bin/Debug/IFS_AutoSample.pdb
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/bin/Debug/IFS_AutoSample.dll
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/bin/Debug/IFS_AutoSample.IFS_AutoSample.apk
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/android/bin/IFS_AutoSample.IFS_AutoSample.apk
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/res/layout/main.xml
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/res/values/strings.xml
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/res/drawable/icon.png
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/R.cs.flag
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/bin/Debug/IFS_AutoSample.IFS_AutoSample-Signed.apk
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/uploadflags.txt
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/IFS_AutoSample.dll
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/IFS_AutoSample.dll.mdb
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/IFS_AutoSample.pdb
+/Users/ganesh.ganbote/Downloads/IFS_AutoSample/IFS_AutoSample/obj/Debug/res/layout/home.xml
