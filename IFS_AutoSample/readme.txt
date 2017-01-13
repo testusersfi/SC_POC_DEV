@@ -1,1 +1,1 @@
-Team, hearty welcome to the session  HI
+Welcome to the session
