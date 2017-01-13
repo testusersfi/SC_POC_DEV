@@ -1,1 +1,1 @@
-welcome to the session
+Team, welcome to the session 
