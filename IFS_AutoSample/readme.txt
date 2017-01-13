@@ -1,1 +1,1 @@
-Welcome to the session
+Thanks and Welcome to the session
