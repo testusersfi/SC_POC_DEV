@@ -1,1 +1,1 @@
-Hi All, welcome to the session on POC automation
+welcome to the session
