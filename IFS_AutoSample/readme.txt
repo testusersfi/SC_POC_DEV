@@ -1,2 +1,1 @@
-Thanks and Welcome to the session
-Demo Test CI E2E Solution.text
+Thanks and welcome
