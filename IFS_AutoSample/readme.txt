@@ -1,1 +1,1 @@
-Welcome back to the session
+Welcome back
